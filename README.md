@@ -1,5 +1,5 @@
 # checkout-transparente
-Um exemplo completo do checkout transparente (by: fórum pagseguro)
+Um exemplo completo do checkout transparente que baixei do fórum do pagseguro (decidi disponibilizar no github pois achei mais fácil de se localizar)
 
 Para alterar as credenciais basta alterar o arquivo app/PagSeguroData.class.php.
 
